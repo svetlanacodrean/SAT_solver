@@ -1,5 +1,5 @@
 # SAT_solver
-SAT_solver for resolving Sudoku puzzles
+SAT_solver for solving Sudoku puzzles
 
 The program receives as input a file with Sudokus in "sdk.txt" format. It is automatically implementing the Sudoku rules.
 
